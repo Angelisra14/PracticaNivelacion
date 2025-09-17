@@ -1,2 +1,2 @@
 # PracticaNivelacion
-Espacio para poner archivos del cursode nivelación
+Espacio para poner archivos del cursos de nivelación
